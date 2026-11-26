@@ -29,4 +29,4 @@ Full detailed report available here: [Network_Audit_Nmap_ARP-Scan_Report.pdf](Ne
 
 ## 👩‍💻 Author
 **Heera**
-Aspiring Cybersecurity Analyst
+
